@@ -1,0 +1,101 @@
+{
+    "userDataProfilesMigration": true,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///f%3A/React%20Projects/shopping-app": "__default__profile__",
+            "file:///c%3A/Users/ams/AppData/Roaming/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode": "__default__profile__",
+            "file:///f%3A/React%20Projects/Git/CodeWhisperer-ShoppingApp": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1698846096637": "__default__profile__",
+            "1699108942327": "__default__profile__"
+        }
+    },
+    "profileAssociationsMigration": true,
+    "telemetry.machineId": "a2341274ece90fe4fe6038d55758641af8083b5980ff4d0e5a318442faf1e774",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///f%3A/React%20Projects/shopping-app"
+            },
+            {
+                "folderUri": "file:///c%3A/Users/ams/AppData/Roaming/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode"
+            },
+            {
+                "folderUri": "file:///f%3A/React%20Projects/Git/CodeWhisperer-ShoppingApp"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1698846096637"
+            },
+            {
+                "backupFolder": "1699108942327"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#181818",
+            "activityBarBackground": "#181818",
+            "sideBarBackground": "#181818",
+            "statusBarBackground": "#181818",
+            "statusBarNoFolderBackground": "#1f1f1f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 256,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///c%3A/Users/ams/AppData/Roaming/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode",
+            "backupPath": "C:\\Users\\ams\\AppData\\Roaming\\Code\\Backups\\da68f422f145b2260006101fa17f6607",
+            "uiState": {
+                "mode": 0,
+                "x": 201,
+                "y": 30,
+                "width": 1024,
+                "height": 728
+            }
+        },
+        "openedWindows": [
+            {
+                "folder": "file:///c%3A/Users/ams/AppData/Roaming/Code/User/globalStorage/amazonwebservices.aws-toolkit-vscode",
+                "backupPath": "C:\\Users\\ams\\AppData\\Roaming\\Code\\Backups\\da68f422f145b2260006101fa17f6607",
+                "uiState": {
+                    "mode": 0,
+                    "x": 201,
+                    "y": 30,
+                    "width": 1024,
+                    "height": 728
+                }
+            },
+            {
+                "folder": "file:///f%3A/React%20Projects/Git/CodeWhisperer-ShoppingApp",
+                "backupPath": "C:\\Users\\ams\\AppData\\Roaming\\Code\\Backups\\c04fca23ee883d2f4863d06344791f2e",
+                "uiState": {
+                    "mode": 0,
+                    "x": 171,
+                    "y": 0,
+                    "width": 1024,
+                    "height": 728
+                }
+            }
+        ]
+    }
+}
